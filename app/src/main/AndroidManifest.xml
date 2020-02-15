@@ -9,6 +9,24 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".activity.M6_0ThongKeActivity">
+
+        </activity>
+        <activity android:name=".activity.M5_0ChoiActivity">
+
+        </activity>
+        <activity android:name=".activity.M4_0HomeActivity"
+          />
+        <activity android:name=".activity.M3_1DangKyIDGameActivity">
+
+        </activity>
+        <activity android:name=".activity.M3_0DangKyActivity" >
+
+        </activity>
+        <activity android:name=".activity.M2_0LoginActivity">
+
+
+        </activity>
         <activity android:name=".activity.M1_0ChaoActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
